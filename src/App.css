@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+ 
+}
+body{
+  background-color: #31363e;
+  color: #fefada;
+}
+
+
+
+
+
+.dice{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+
+}
+
+.btn{
+  background-color: #00cb96;
+  width: 50%;
+}
+i{
+  color: #fefada;
+}
